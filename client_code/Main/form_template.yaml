@@ -426,7 +426,7 @@ components:
   properties:
     background: ''
     col_spacing: none
-    col_widths: '{"XHRUHC":40,"YMGKQQ":4,"FYTACE":16}'
+    col_widths: '{"XHRUHC":45,"YMGKQQ":4,"FYTACE":11}'
     role: null
     spacing:
       margin: ['0', null, null, null]
